@@ -43,3 +43,12 @@
 - file → identifies the type of a file/device.
 - -s → tells file to inspect the contents of the device, rather than treating it like a normal file.
 - /dev/xvdf → the EBS block device attached to your EC2 instance.
+
+## Formatting the EBS Volume
+
+For an unused volume:
+
+`sudo mkfs -t ext4 /dev/xvdb`
+
+#### Be careful: 
+`mkfs formats the disk and can destroy existing data.`
