@@ -42,3 +42,35 @@ AZ          → ap-south-1a
 - Volume 4 → 5 GB → 1a
 
 <img width="756" height="242" alt="image" src="https://github.com/user-attachments/assets/66f99f3d-85b8-4824-80bc-d2f1e35a826f" />
+
+# PART 2 — Attach All 3 Volumes
+
+Go to:
+
+EC2
+ ↓
+Volumes
+ ↓
+Select Volume 1
+ ↓
+Actions
+ ↓
+Attach volume
+
+Select your EC2 instance.
+
+Device:
+
+/dev/xvdf
+
+Repeat for Volume 2:
+
+/dev/xvdg
+
+Repeat for Volume 3:
+
+/dev/xvdh
+
+Repeat for Volume 4:
+
+/dev/xvdi
