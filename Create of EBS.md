@@ -12,4 +12,19 @@
 
 ## List The Block Storage
 `lsblk`
+<img width="365" height="110" alt="image" src="https://github.com/user-attachments/assets/30efea4c-f11b-4abf-b99e-a2346619c0a4" />
 
+# Addiational VOLUME
+
+# Device Name
+
+<img width="623" height="83" alt="image" src="https://github.com/user-attachments/assets/e9131d1d-c65e-47ae-98a8-0e3ebb0c4cd6" />
+
+# Block Device
+
+### DelateOnTermination -> No
+
+<img width="743" height="137" alt="image" src="https://github.com/user-attachments/assets/6aff3098-5c9d-40de-a075-c4f9b3b501df" />
+
+## List The Block Storage
+`lsblk`
