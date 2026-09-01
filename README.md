@@ -1,5 +1,3 @@
-# EBS<Elastic-block-Storage>
-
 # AWS EBS (Elastic Block Store)
 
 ## What is EBS?
