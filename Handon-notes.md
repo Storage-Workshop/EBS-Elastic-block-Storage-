@@ -46,7 +46,7 @@ AZ          → ap-south-1a
 # PART 2 — Attach All 3 Volumes
 
 Go to:
-
+```
 EC2
  ↓
 Volumes
@@ -57,8 +57,11 @@ Actions
  ↓
 Attach volume
 
-Select your EC2 instance.
+```
 
+### Select your EC2 instance.
+
+```
 Device:
 
 /dev/xvdf
@@ -74,3 +77,5 @@ Repeat for Volume 3:
 Repeat for Volume 4:
 
 /dev/xvdi
+
+```
