@@ -1,16 +1,28 @@
 # Volume 2: Manual EBS Snapshot
 
-In this part, we will create an additional EBS volume, attach it to EC2, mount it, create test data, and take a **manual EBS snapshot**.
+## Objective
 
-## Architecture
+In this section, we will:
+
+- Create an additional EBS volume
+- Attach it to an EC2 instance
+- Format and mount the volume
+- Create test data
+- Create a manual EBS snapshot
+- Verify the snapshot
+- Restore the snapshot to a new EBS volume
+
+---
+
+## Step 1: Create EBS Volume
+
+Go to:
 
 ```text
-EC2 Instance
-     |
-     └── EBS Volume 2
-             |
-             ├── Filesystem → ext4
-             |
-             ├── Mount Point → /manual-backup
-             |
-             └── Manual Snapshot
+AWS Console
+   ↓
+EC2
+   ↓
+Volumes
+   ↓
+Create volume
