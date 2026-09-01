@@ -69,7 +69,7 @@ For an unused volume:
 #### Be careful: 
 `mkfs formats the disk and can destroy existing data.`
 
-# create a Directory 
+# Create a Directory 
 
 ```markdown
 mkdir /myapplication
@@ -111,8 +111,9 @@ sudo blkid /dev/nvme1n1
 UUID="199737d5-7a95-4ae1-916b-36d37379311a" /myapplication ext4 defaults,nofail 0 2
 ```
 
-Then test:
+### Then test:
 
+```markdown
 sudo mount -a
-
+```
 If there is no error, the configuration is valid.
