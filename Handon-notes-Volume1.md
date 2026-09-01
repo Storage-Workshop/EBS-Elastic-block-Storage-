@@ -207,6 +207,16 @@ cat /data/test.txt
 
 > ⚠️ **Do not run `mkfs` on an existing EBS volume or partition that contains important data. Formatting can destroy the existing filesystem and data.**
 
+<img width="584" height="330" alt="image" src="https://github.com/user-attachments/assets/19fe0dfe-fa16-4c48-95cb-c0a8fb4e3fd5" />
+
+<img width="614" height="266" alt="image" src="https://github.com/user-attachments/assets/67a01bc4-f9f5-4db5-8ecb-d56fe15409ab" />
+
+<img width="350" height="159" alt="image" src="https://github.com/user-attachments/assets/d8c2efe8-806a-4c2a-99e6-256d6d89a43b" />
+
+
+
+
+
 ### Interview Answer
 
 > **"First I identify the attached EBS volume using `lsblk`. Then, if it is a new volume, I create a partition using `fdisk`, create an ext4 filesystem using `mkfs`, create a mount point such as `/data`, and mount the partition. Finally, I verify the mount using `df -h` and `lsblk`."**
