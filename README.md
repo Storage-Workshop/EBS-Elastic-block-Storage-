@@ -374,3 +374,6 @@ EBS
 ## Interview One-Liner
 
 > **"EBS is persistent block storage for EC2. We use it for OS and application data, and we can attach, detach, resize, encrypt, and create snapshots of EBS volumes. The DeleteOnTermination setting determines whether a volume is deleted when its EC2 instance is terminated."**
+
+## Note
+> **"EBS volume and EC2 instance must be in the same Availability Zone for attachment."**
