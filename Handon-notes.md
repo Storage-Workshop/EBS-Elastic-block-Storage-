@@ -79,3 +79,19 @@ Repeat for Volume 4:
 /dev/xvdi
 
 ```
+
+<img width="749" height="335" alt="image" src="https://github.com/user-attachments/assets/acf7e5d5-4068-48da-9e1c-db6c193b7a6a" />
+
+
+# PART 3 — Verify All Volumes
+
+### SSH into the EC2:
+```
+
+lsblk
+
+```
+
+### Expected:
+
+<img width="345" height="143" alt="image" src="https://github.com/user-attachments/assets/e48c9d07-51bf-4fbe-a599-11a9bfcbb7fe" />
