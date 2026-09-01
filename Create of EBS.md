@@ -11,7 +11,9 @@
 <img width="712" height="128" alt="image" src="https://github.com/user-attachments/assets/64d401a2-fc84-43c2-ac07-0bf4b1d012cd" />
 
 ## List The Block Storage
+
 `lsblk`
+
 <img width="365" height="110" alt="image" src="https://github.com/user-attachments/assets/30efea4c-f11b-4abf-b99e-a2346619c0a4" />
 
 # Addiational VOLUME
