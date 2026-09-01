@@ -9,3 +9,7 @@
 ### DelateOnTermination -> yes
 
 <img width="712" height="128" alt="image" src="https://github.com/user-attachments/assets/64d401a2-fc84-43c2-ac07-0bf4b1d012cd" />
+
+## List The Block Storage
+`lsblk`
+
