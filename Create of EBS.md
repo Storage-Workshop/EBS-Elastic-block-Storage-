@@ -12,7 +12,11 @@
 
 ## List The Block Storage
 
+```markdown
+
 `lsblk`
+
+```
 
 <img width="365" height="110" alt="image" src="https://github.com/user-attachments/assets/30efea4c-f11b-4abf-b99e-a2346619c0a4" />
 
