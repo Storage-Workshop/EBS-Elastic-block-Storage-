@@ -213,9 +213,17 @@ cat /data/test.txt
 
 <img width="350" height="159" alt="image" src="https://github.com/user-attachments/assets/d8c2efe8-806a-4c2a-99e6-256d6d89a43b" />
 
+<img width="720" height="314" alt="image" src="https://github.com/user-attachments/assets/0d26bccc-e521-44d5-b273-8bcca7664198" />
 
+<img width="549" height="313" alt="image" src="https://github.com/user-attachments/assets/236703e8-e4bf-416c-b362-1644eb4b0c88" />
 
+<img width="380" height="164" alt="image" src="https://github.com/user-attachments/assets/5243911b-3211-4bb8-9cf5-17ea051d6b7e" />
 
+<img width="440" height="179" alt="image" src="https://github.com/user-attachments/assets/e31371d2-dcdf-479a-b198-4c79d01faf1d" />
+
+<img width="953" height="119" alt="image" src="https://github.com/user-attachments/assets/dd676a69-9305-40e4-9b12-3bbde1fc7d99" />
+
+<img width="693" height="184" alt="image" src="https://github.com/user-attachments/assets/1472b3b0-808f-4667-9ab7-ed10696fe8d0" />
 
 ### Interview Answer
 
