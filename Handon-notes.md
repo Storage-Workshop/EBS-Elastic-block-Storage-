@@ -1,4 +1,4 @@
-# PART 1 — Create 3 Additional EBS Volumes
+# PART 1 — Create 4 Additional EBS Volumes
 ## Step 1: Go to EC2 Volumes
 ```
 AWS Console
