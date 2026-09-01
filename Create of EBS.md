@@ -16,6 +16,10 @@
 
 <img width="365" height="110" alt="image" src="https://github.com/user-attachments/assets/30efea4c-f11b-4abf-b99e-a2346619c0a4" />
 
+`dh -h`
+
+<img width="445" height="143" alt="image" src="https://github.com/user-attachments/assets/04ec91b8-c47b-4e18-add7-2eb51767c03c" />
+
 # Addiational VOLUME
 
 # Device Name
@@ -29,4 +33,13 @@
 <img width="743" height="137" alt="image" src="https://github.com/user-attachments/assets/6aff3098-5c9d-40de-a075-c4f9b3b501df" />
 
 ## List The Block Storage
+
 `lsblk`
+
+## what type of data/filesystem is present on the EBS volume.
+
+`file -s /dev/xvdf`
+
+- file → identifies the type of a file/device.
+- -s → tells file to inspect the contents of the device, rather than treating it like a normal file.
+- /dev/xvdf → the EBS block device attached to your EC2 instance.
